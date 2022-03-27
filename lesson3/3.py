@@ -1,0 +1,5 @@
+text = input()
+text_1 = text.lower()
+text_2 = text.upper()
+text_3 = text.capitalize()
+print(text, text_1, text_2, text_3)
