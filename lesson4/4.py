@@ -1,2 +1,2 @@
 text = "1234567890"
-print(text[:])
+print(text[1::2])
